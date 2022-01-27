@@ -11,6 +11,7 @@ namespace AutoFacConsoleUI
     public static class AutoFacConfig
     {
         //this class contains only one method and that is to configure the container
+        //returns a Icontainer based on specifications defined in the method
         public static IContainer Configure()
         {
             var builder = new ContainerBuilder();
