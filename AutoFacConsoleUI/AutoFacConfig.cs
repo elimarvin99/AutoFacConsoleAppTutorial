@@ -16,7 +16,7 @@ namespace AutoFacConsoleUI
             var builder = new ContainerBuilder();
             //the application actually constructs the business logic to be run by the processdata method
             builder.RegisterType<Application>().As<IApplication>(); 
-            builder.RegisterType<BusinessLogic>().As<IBusinessLogic>(); //whenever you look for ibusinesslogic return an instance of business logic
+            builder.RegisterType<BetterBusinessLogic>().As<IBusinessLogic>(); //whenever you look for ibusinesslogic return an instance of business logic
             //respond with business logic whenever ibusiness is needed
 
             //here we are getting the classes and mathcing them up to their interface (getting assemblytypes(classes) as the interfaces)
