@@ -1,0 +1,17 @@
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\AutoFacConsoleUI.exe
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\AutoFacConsoleUI.deps.json
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\AutoFacConsoleUI.runtimeconfig.json
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\AutoFacConsoleUI.dll
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\ref\AutoFacConsoleUI.dll
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\AutoFacConsoleUI.pdb
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.AssemblyInfoInputs.cache
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.AssemblyInfo.cs
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.dll
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\ref\AutoFacConsoleUI.dll
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.pdb
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.genruntimeconfig.cache
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\bin\Debug\net6.0\Autofac.dll
+C:\Users\EliMarvin\Repos\AutoFacConsoleUI\AutoFacConsoleUI\obj\Debug\net6.0\AutoFacConsoleUI.csproj.CopyComplete
